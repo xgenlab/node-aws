@@ -2,12 +2,12 @@
   "name": "aws-node",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Samadhi Laksahan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
